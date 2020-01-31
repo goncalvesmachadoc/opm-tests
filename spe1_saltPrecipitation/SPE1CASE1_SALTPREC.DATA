@@ -131,7 +131,7 @@ PVTWSALT
   5.0   0.98   3.00E-06   0.52  0.0
   20.0  0.95   3.00E-06   0.52  0.0 /
   
-Solubility Limit of salt in water [lb/stb] 
+--Solubility Limit of salt in water [lb/stb] 
 SALTSOL 
 1* /
 
